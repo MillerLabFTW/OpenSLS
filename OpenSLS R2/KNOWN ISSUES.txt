@@ -1,0 +1,5 @@
+This is a list of known issues with the R2 hardware:
+-The feeder piston printed mounting plate elcipses two tapped M4 holes used to clamp the gasket material.  Functionality is not compromised, but this will be fixed in later revs.\
+-Electronics mounting holes for the RAMBO and Arduino need to be relocated.
+-No fabrication information for Aluminum print piston
+-

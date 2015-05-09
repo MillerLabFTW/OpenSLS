@@ -1,0 +1,19 @@
+Print the following:
+
+2x couple constraint.STL
+2x distributor blade mount.STL
+1x distributor motor mount A.STL
+1x distributor motor mount B.STL
+1x distributor r3-Belt block1.STL
+1x distributor r3-Belt block2.STL
+1x distributor r3-Blade frame.STL
+3x distributor r3-CLamp block1.STL
+1x distributor rail mount A.STL
+1x distributor rail mount B.STL
+1x feed piston acme plate.STL
+4x integration bracket.STL
+1x piston motor mount.STL
+1x piston plate mount.STL
+2x hopper lock clip
+
+Detailed assembly instructions to come soon at andreasbastian.com/opensls
