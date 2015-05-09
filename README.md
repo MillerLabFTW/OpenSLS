@@ -13,3 +13,6 @@ This git repository includes:
 - Wiring diagram for electronics configuration (based on RAMBo electronics)
 - Model geometries to sinter
 - (Coming soon) Bill of Materials
+
+
+![MillerLab logo](https://github.com/MillerLabFTW/OpenSLS/blob/master/MillerLab_logo.jpg)
