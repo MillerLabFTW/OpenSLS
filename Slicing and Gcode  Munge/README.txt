@@ -27,7 +27,19 @@ First layer speed	50%
 G-code Munging
 The G-code output from slicing an STL model is meant to be interpreted by a melt extrusion printer, not SLS. 
 Thus, the G-code must be modified so that Z changes invoke the addition of a new powder layer and XY motion is 
-assigned the appropriate laser firing behavior. We performed munging (data editing) of the G-code with a custom 
+assigned the appropriate laser firing behavior. 
+
+##New Python munging script
+
+We wrote a simple Python script to perform the necessary G-code edits. It is described in detail in our Supporting Information file for our PLOS ONE paper and posted here.
+Simply run the Python script and you will be prompted to choose a file to munge.
+
+A neat function of the new munge script is the ability to slice laser power settings into the geometry. This is done by associating extruders in Slic3r with power settings in the munge script. 
+
+
+## Old PHP script
+
+We performed munging (data editing) of the G-code with a custom 
 PHP script that is available on the OpenSLS Github repository. The PHP script is run from the command line as 
 follows (example in Windows operating system):
 
