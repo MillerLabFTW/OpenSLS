@@ -27,11 +27,11 @@ Basic summary of our hardware verions to date:
 1. R1, designed by Andreas Bastian: Proof-of-concept build for OpenSLS. Buld is almost entirely acrylic + 3D printed parts. Powder distributor is a metal rod which counter-rotates, driven by belt motion. This build has everything you need to do SLS, but it lacks a simple powder collection system.
 2. R2, designed by Andreas Bastian: This was the hardware used for the entirety of our PLOS ONE paper. It is mostly made from acrylic, but has an aluminum build piston and platform amenable to heating. Distributor is a static plow (a lab spatula). Powder is collected into a hopper through ducts built into the acrylic design.
 You can read more about the design upgrades Andreas made from R1 hardware to R2 hardware on the [RepRap wiki page] (http://reprap.org/wiki/OpenSLS#R1_Hardware). 
-3. R3, designed by Ian Kinstlinger, Anderson Ta, and David Yalacki: This is an all-acrylic build designed for low-cost and simplicity. Larger powder ducts facilitate powder collection and the overall form factor is a bit smaller. Note that this build will not be compatible with any powder pre-heating, but it's been working great for our purposes. Distributor is a steel 8mm rod mounted on a pair of 608 bearings. A [DC Motor](http://www.amazon.com/Science-Wiz-Motors-Working-Voltage/dp/B000BRUHW8/ref=sr_1_2?ie=UTF8&qid=1455162773&sr=8-2&keywords=dc+motor) spins the rod to give you a rotating distributor and the whole thing is mounted on springs to adjust height.
+3. R3, designed by Ian Kinstlinger, Anderson Ta, and David Yalacki: This is an all-acrylic build designed for low cost and simplicity. Larger powder ducts facilitate powder collection and the overall form factor is a bit smaller. Note that this build will not be compatible with any powder pre-heating, but it's been working great for our purposes. Distributor is a steel 8mm rod mounted on a pair of 608 bearings. A [DC Motor](http://www.amazon.com/Science-Wiz-Motors-Working-Voltage/dp/B000BRUHW8/ref=sr_1_2?ie=UTF8&qid=1455162773&sr=8-2&keywords=dc+motor) spins the rod to give you a rotating distributor and the whole thing is mounted on springs to adjust height.
 
 ###Links
-[PLOS ONE OpenSLS paper] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147399).
-[RepRap OpenSLS wiki page] (http://reprap.org/wiki/OpenSLS): Documentation of early OpenSLS builds including video
+-[PLOS ONE OpenSLS paper] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147399).
+-[RepRap OpenSLS wiki page] (http://reprap.org/wiki/OpenSLS): Documentation of early OpenSLS builds including video
 
  
 
