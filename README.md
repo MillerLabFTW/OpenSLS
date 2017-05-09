@@ -7,7 +7,7 @@
 
 ### Updates 02/10/16
 
-- We are excited to annouce that OpenSLS has been published! You can find our paper at [PLOS ONE's website] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147399).
+- We are excited to annouce that OpenSLS has been published! You can find our paper at [PLOS ONE's website](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147399).
 Many of the hardware-related details (wiring diagrams, G-code editing, Bill of Materials) are in the supporting information, which we have uploaded here.  
 - We are releasing our R3 hardware update and the corresponding firmware. What's new? See below.
 - A Python version of our G-code munging utility is now available, which may be more convenient than our earlier PHP implementation
