@@ -1,8 +1,8 @@
 # OpenSLS
 
-##### An open-source Selective Laser Sintering platform developed at Rice University
-##### Miller Lab: Physiologic Systems Engineering and Advanced Materials
-##### [millerlab.rice.edu](http://millerlab.rice.edu)
+#### An open-source Selective Laser Sintering platform developed at Rice University
+#### Miller Lab: Physiologic Systems Engineering and Advanced Materials
+#### [millerlab.rice.edu](http://millerlab.rice.edu)
 &nbsp;
 
 ### Updates 02/10/16
