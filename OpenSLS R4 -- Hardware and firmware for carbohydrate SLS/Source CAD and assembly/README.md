@@ -1,0 +1,5 @@
+There is not currently a complete assembly guide for the OpenSLS powder module. The easiest way to figure out how the parts fit together is to look at the CAD file and hide/show the different parts to see where they fit. To connect the acrylic pieces, use an M3 nut in the vertical slot, and an M3 screw (usually M3x12 or M3x14) to tighten the pieces together. M3 nuts and bolts are also used to secure the 3D printed pieces to the laser-cut acrylic body, and to connect the 3D printed pieces to each other. 
+
+The powder spreader is a lab spatula (see BOM) which can attach to the servo motor via a 3D printed part. To connect the spatula to this connector, we use hot glue. We also use acrylic glue on all the tabbed inserts on the inside of the piston where powder could slip through. 
+
+The CAD file was designed in Autodesk Fusion 360, which is free for educational use and by makers. A F360 archive file is included in the repo, or you can find it at: https://a360.co/2UAdHrG
