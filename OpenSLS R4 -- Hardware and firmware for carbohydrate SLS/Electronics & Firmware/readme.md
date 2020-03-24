@@ -1,0 +1,3 @@
+Note about the wiring diagram and firmware:
+
+There are two electronics boards and two firmware files because we set up the hardware to use a main controller board (RAMBo) with a secondard (slave) Arduino board (Mega in our setup, but an Uno or even a nano would work). The sole purpose of the slave Arduino is to drive the servo motor which raises and lowers the powder spreader. In theory there is no reason that this servo can't run off another MOSFET on the RAMBo, but we were getting very noisy signal which caused the spreader to vibrate excessively. Running a second board provides enough isolation, and the slave Arduino just gets PWM signals from the primary RAMBo that indicate when to move the servo. 

@@ -5,6 +5,10 @@
 #### [millerlab.rice.edu](http://millerlab.rice.edu)
 &nbsp;
 
+### Update 03/23/20
+- We are adding a new batch of design files for openSLS -- more details to come
+
+
 ### Updates 02/10/16
 
 - We are excited to annouce that OpenSLS has been published! You can find our paper at [PLOS ONE's website](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147399).

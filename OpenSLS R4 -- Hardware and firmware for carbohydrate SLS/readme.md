@@ -1,0 +1,3 @@
+## Note
+
+This is a complex hardware project which likely will need some adaptation for other implementations. We provide all the design files, hardware, and firmware here, and we encourage anyone interested in the project to read more details in our [PLOS One Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147399) and the associated supplementary material. If you have questions about the project or the hardware, please get in touch. Jordan Miller (jmil [at] rice [dot] edu) directs our lab group at Rice which developed this project, and Ian Kinstlinger (iankinstlinger [at] gmail [dot] com) designed most of the hardware.
