@@ -7,6 +7,7 @@
 
 ### Update 03/23/20
 - We are adding a new batch of design files for openSLS -- more details to come
+- Please note that the newly added R4 design is *NOT* simply an upgrade of our earlier R3 hardware. Rather, it is a version for SLS using specialty powders for biomaterials research, and uses a different mechanism for powder handling. We will add more details about this (hopefully soon!). For conventional nylon or wax SLS, R3 remains the most recent design. 
 
 
 ### Updates 02/10/16
