@@ -7,7 +7,7 @@
 
 ### Update 07/07/20
 - Our latest work has been published in Nature Biomedical Engineering. Here, we adapted openSLS for laser sintering of carbohydrates, which we are using to pattern perfusable vascular networks in engineered tissues
-- Learn more about this work from Rice University's [Press Release] (http://news.rice.edu/2020/06/29/laser-welded-sugar-sweet-way-to-3d-print-blood-vessels-2/?fbclid=IwAR0U7sia3JYhuekfoaQjJkxIh-vBjE8x_2c2UG4KTCaLtkVJyBe03XaeHhM) or by reading [the article] (https://rdcu.be/b5tHy).
+- Learn more about this work from Rice University's [Press Release](http://news.rice.edu/2020/06/29/laser-welded-sugar-sweet-way-to-3d-print-blood-vessels-2/?fbclid=IwAR0U7sia3JYhuekfoaQjJkxIh-vBjE8x_2c2UG4KTCaLtkVJyBe03XaeHhM) or by reading [the article](https://rdcu.be/b5tHy).
 - The R4 hardware designs are the final versions developed in this work
 
 ### Update 03/23/20
@@ -35,13 +35,13 @@ Basic summary of our hardware verions to date:
 
 1. R1, designed by Andreas Bastian: Proof-of-concept build for OpenSLS. Buld is almost entirely acrylic + 3D printed parts. Powder distributor is a metal rod which counter-rotates, driven by belt motion. This build has everything you need to do SLS, but it lacks a simple powder collection system.
 2. R2, designed by Andreas Bastian: This was the hardware used for the entirety of our PLOS ONE paper. It is mostly made from acrylic, but has an aluminum build piston and platform amenable to heating. Distributor is a static plow (a lab spatula). Powder is collected into a hopper through ducts built into the acrylic design.
-You can read more about the design upgrades Andreas made from R1 hardware to R2 hardware on the [RepRap wiki page] (http://reprap.org/wiki/OpenSLS#R1_Hardware). 
+You can read more about the design upgrades Andreas made from R1 hardware to R2 hardware on the [RepRap wiki page](http://reprap.org/wiki/OpenSLS#R1_Hardware). 
 3. R3, designed by Ian Kinstlinger, Anderson Ta, and David Yalacki: This is an all-acrylic build designed for low cost and simplicity. Larger powder ducts facilitate powder collection and the overall form factor is a bit smaller. Note that this build will not be compatible with any powder pre-heating, but it's been working great for our purposes. Distributor is a steel 8mm rod mounted on a pair of 608 bearings. A [DC Motor](http://www.amazon.com/Science-Wiz-Motors-Working-Voltage/dp/B000BRUHW8/ref=sr_1_2?ie=UTF8&qid=1455162773&sr=8-2&keywords=dc+motor) spins the rod to give you a rotating distributor and the whole thing is mounted on springs to adjust height.
 4. R4, designed by Ian Kinstlinger and David Yalacki: This is our modified build for carbohydrate sintering. We replace the conventional two-piston design (powder reservoir and build volume) with a single piston build volume and a powder reservoir which is suspended from the 2-axis gantry which moves the laser head around. Powder is dispensed by shaking it loose from the reservoir onto the build area. 
 This design helps to mitigate the relatively poor powder flowability of carbohydrates compared to standard SLS materials like nylon. More information can be found in our Nature BME publication. 
 
 ### Links
-- [Nature BME carbohydrate SLS paper] (https://rdcu.be/b5tHy), [supplementary information] (https://static-content.springer.com/esm/art%3A10.1038%2Fs41551-020-0566-1/MediaObjects/41551_2020_566_MOESM1_ESM.pdf), and [extended datasets] (https://zenodo.org/record/3723373#.XwTOOihKiUk)
+- [Nature BME carbohydrate SLS paper](https://rdcu.be/b5tHy), [supplementary information](https://static-content.springer.com/esm/art%3A10.1038%2Fs41551-020-0566-1/MediaObjects/41551_2020_566_MOESM1_ESM.pdf), and [extended datasets](https://zenodo.org/record/3723373#.XwTOOihKiUk)
 - [PLOS ONE OpenSLS paper](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0147399)
 - [RepRap OpenSLS wiki page](http://reprap.org/wiki/OpenSLS): Documentation of early OpenSLS builds including video
 
